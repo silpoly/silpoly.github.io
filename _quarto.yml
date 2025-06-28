@@ -1,0 +1,82 @@
+project:
+  type: website
+
+website:
+  title: "VII SILPOLY 2025"
+  description: |
+    Sitio web del VII Simposio Latinoamericano de Polychaeta. Santa Marta,
+    Colombia. Diciembre 3 al 5 de 2025.
+  site-url: https://silpoly.github.io/
+  repo-url: https://github.com/silpoly/silpoly.github.io/
+
+  image: imagenes/vii-silpoly_horizontal.png
+
+  page-navigation: true
+  bread-crumbs: true
+
+  google-analytics:
+    tracking-id: "G-0X56X3292W"
+    anonymize-ip: true
+
+  twitter-card:
+    card-style: summary_large_image
+
+  open-graph: true
+
+  navbar:
+    left:
+      - text: "Inicio"
+        href: index.qmd
+      - text: "Acerca"
+        href: acerca/index.qmd
+      - text: "Información"
+        href: informacion/index.qmd
+      - text: "Inscripciones"
+        href: inscripciones/index.qmd
+      - text: "Resúmenes"
+        href: resumenes/index.qmd
+      - text: "Contacto"
+        href: contacto/index.qmd
+    tools:
+      - text: "GitHub"
+        href: https://github.com/silpoly/silpoly.github.io/
+        icon: github
+      - text: "Facebook"
+        href: https://www.facebook.com/VIISilpoly2025/
+        icon: facebook
+      - text: "Instragram"
+        href: https://www.instagram.com/viisilpoly2025/
+        icon: instagram
+
+  page-footer:
+    left: "VII SILPOLY © 2025."
+    center:
+      - icon: github
+        href: https://github.com/silpoly/silpoly.github.io/
+      - icon: facebook
+        href: https://www.facebook.com/VIISilpoly2025/
+      - icon: instagram
+        href: https://www.instagram.com/viisilpoly2025/
+    right: |
+      Hecho por [\@alexespinosaco](https://alexespinosaco.github.io) con
+      [![](https://www.r-project.org/logo/Rlogo.svg){fig-alt="R" width=21px}](https://www.r-project.org/)
+      y [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/)
+
+lang: es
+date-format: iso
+
+execute:
+  freeze: auto
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: solar
+    respect-user-color-scheme: true
+    css: styles.scss
+    toc: false
+
+resources:
+  - informacion/circulares
+

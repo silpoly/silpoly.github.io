@@ -1,0 +1,45 @@
+---
+title: "Acerca del VII SILPOLY 2025"
+---
+
+## El evento
+
+El VII SILPOLY se realiza por primera vez en Colombia y coincide con la
+celebración de los 500 años de la ciudad de Santa Marta, así como con el
+aniversario número 30 del Instituto de Investigaciones Marinas y Costeras como
+parte del Sistema Nacional Ambiental, siendo la oportunidad para resaltar la
+temática de biodiversidad marina, conservación, uso sostenible de recursos en el
+marco de iniciativas globales como los Objetivos de Desarrollo Sostenible y el
+Decenio de las Ciencias Oceánicas.
+
+## Fechas importantes
+
+-   **Fecha del VII Silpoly:** 3 al 5 de diciembre de 2025.
+-   **Envío de resúmenes:** 19 de mayo al 30 de junio de 2025.
+-   **Notificación aceptación de resúmenes:** 30 de julio de 2025.
+-   **Fecha tercera circular (información detallada del evento):** 30 de
+    septiembre de 2025.
+-   **Inscripciones:** a partir del 1 de junio (detalles serán enviados vía
+    correo electrónico e informados por página web).
+
+## Sede
+
+La sede de la séptima versión del Simposio Latinoamericano de Poliquetos SILPOLY
+será el Instituto de Investigaciones Marinas y Costeras «José Benito Vives de
+Andréis» en la ciudad de Santa Marta, Colombia.
+
+```{r}
+#| label: map-ubication
+#| echo: false
+#| message: false
+
+
+if (!require("leaflet")) install.packages("leaflet")
+leaflet::leaflet() |> 
+  leaflet::addTiles() |>   # Add default OpenStreetMap map tiles
+  leaflet::addMarkers(
+    lng = -74.231870,
+    lat = 11.188193,
+    popup = "INVEMAR - Instituto de Investigaciones Marinas y Costeras «José Benito Vives de Andréis». Calle 25 No. 2-55, Playa Salguero,Santa Marta D.T.C.H., Magdalena, Colombia"
+  )
+```

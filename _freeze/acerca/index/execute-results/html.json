@@ -1,0 +1,21 @@
+{
+  "hash": "28059a4e6a2bab96959e9706765fbdcf",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Acerca del VII SILPOLY 2025\"\n---\n\n## El evento\n\nEl VII SILPOLY se realiza por primera vez en Colombia y coincide con la\ncelebración de los 500 años de la ciudad de Santa Marta, así como con el\naniversario número 30 del Instituto de Investigaciones Marinas y Costeras como\nparte del Sistema Nacional Ambiental, siendo la oportunidad para resaltar la\ntemática de biodiversidad marina, conservación, uso sostenible de recursos en el\nmarco de iniciativas globales como los Objetivos de Desarrollo Sostenible y el\nDecenio de las Ciencias Oceánicas.\n\n## Fechas importantes\n\n-   **Fecha del VII Silpoly:** 3 al 5 de diciembre de 2025.\n-   **Envío de resúmenes:** 19 de mayo al 30 de junio de 2025.\n-   **Notificación aceptación de resúmenes:** 30 de julio de 2025.\n-   **Fecha tercera circular (información detallada del evento):** 30 de\n    septiembre de 2025.\n-   **Inscripciones:** a partir del 1 de junio (detalles serán enviados vía\n    correo electrónico e informados por página web).\n\n## Sede\n\nLa sede de la séptima versión del Simposio Latinoamericano de Poliquetos SILPOLY\nserá el Instituto de Investigaciones Marinas y Costeras «José Benito Vives de\nAndréis» en la ciudad de Santa Marta, Colombia.\n\n\n::: {.cell}\n::: {.cell-output-display}\n\n```{=html}\n<div class=\"leaflet html-widget html-fill-item\" id=\"htmlwidget-bbb399baac5b5c91fe83\" style=\"width:100%;height:464px;\"></div>\n<script type=\"application/json\" data-for=\"htmlwidget-bbb399baac5b5c91fe83\">{\"x\":{\"options\":{\"crs\":{\"crsClass\":\"L.CRS.EPSG3857\",\"code\":null,\"proj4def\":null,\"projectedBounds\":null,\"options\":{}}},\"calls\":[{\"method\":\"addTiles\",\"args\":[\"https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png\",null,null,{\"minZoom\":0,\"maxZoom\":18,\"tileSize\":256,\"subdomains\":\"abc\",\"errorTileUrl\":\"\",\"tms\":false,\"noWrap\":false,\"zoomOffset\":0,\"zoomReverse\":false,\"opacity\":1,\"zIndex\":1,\"detectRetina\":false,\"attribution\":\"&copy; <a href=\\\"https://openstreetmap.org/copyright/\\\">OpenStreetMap<\\/a>,  <a href=\\\"https://opendatacommons.org/licenses/odbl/\\\">ODbL<\\/a>\"}]},{\"method\":\"addMarkers\",\"args\":[11.188193,-74.23187,null,null,null,{\"interactive\":true,\"draggable\":false,\"keyboard\":true,\"title\":\"\",\"alt\":\"\",\"zIndexOffset\":0,\"opacity\":1,\"riseOnHover\":false,\"riseOffset\":250},\"INVEMAR - Instituto de Investigaciones Marinas y Costeras «José Benito Vives de Andréis». Calle 25 No. 2-55, Playa Salguero,Santa Marta D.T.C.H., Magdalena, Colombia\",null,null,null,null,{\"interactive\":false,\"permanent\":false,\"direction\":\"auto\",\"opacity\":1,\"offset\":[0,0],\"textsize\":\"10px\",\"textOnly\":false,\"className\":\"\",\"sticky\":true},null]}],\"limits\":{\"lat\":[11.188193,11.188193],\"lng\":[-74.23187,-74.23187]}},\"evals\":[],\"jsHooks\":[]}</script>\n```\n\n:::\n:::\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {
+      "include-in-header": [
+        "<link href=\"../site_libs/htmltools-fill-0.5.8.1/fill.css\" rel=\"stylesheet\" />\n<script src=\"../site_libs/htmlwidgets-1.6.4/htmlwidgets.js\"></script>\n<script src=\"../site_libs/jquery-3.6.0/jquery-3.6.0.min.js\"></script>\n<link href=\"../site_libs/leaflet-1.3.1/leaflet.css\" rel=\"stylesheet\" />\n<script src=\"../site_libs/leaflet-1.3.1/leaflet.js\"></script>\n<link href=\"../site_libs/leafletfix-1.0.0/leafletfix.css\" rel=\"stylesheet\" />\n<script src=\"../site_libs/proj4-2.6.2/proj4.min.js\"></script>\n<script src=\"../site_libs/Proj4Leaflet-1.0.1/proj4leaflet.js\"></script>\n<link href=\"../site_libs/rstudio_leaflet-1.3.1/rstudio_leaflet.css\" rel=\"stylesheet\" />\n<script src=\"../site_libs/leaflet-binding-2.2.2/leaflet.js\"></script>\n"
+      ]
+    },
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

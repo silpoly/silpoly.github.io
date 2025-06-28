@@ -1,0 +1,19 @@
+---
+title: "Contacto"
+---
+
+## Envíanos un correo
+
+¿Tienes alguna duda? ¿Tuviste problemas con la inscripción o el envío de tu resumen? ¿Quieres hacernos una sugerencia? Escríbenos a [viisilpoly2025@gmail.com](mailto:viisilpoly2025@gmail.com)
+
+<div style="text-align: center;">
+[{{< fa envelope size=5x title="Enviar correo electrónico" >}}](mailto:viisilpoly2025@gmail.com)
+</div>
+
+## Síguenos en nuestras redes sociales
+
+Encuéntranos en [Facebook](https://www.facebook.com/VIISilpoly2025/) e [Instagram](https://www.instagram.com/viisilpoly2025/).
+
+<div style="text-align: center;">
+[{{< fa brands facebook size=5x title="Facebook" >}}](https://www.facebook.com/VIISilpoly2025/) [{{< fa brands instagram size=5x title="Instagram" >}}](https://www.instagram.com/viisilpoly2025/) 
+</div>

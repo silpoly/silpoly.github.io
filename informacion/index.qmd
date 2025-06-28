@@ -1,0 +1,33 @@
+---
+title: "Información"
+---
+
+## Comité organizador
+
+## Comité científico
+
+## Circulares
+
+::::: {.center-text}
+:::: {.grid}
+::: {.g-col-12 .g-col-md-6}
+
+<div style="text-align: center;">
+### Primera circular
+
+[{{< fa file-pdf size=5x title="Primera circular" >}}](circulares/Circular1.VIISilpoly_vf.pdf)
+</div>
+
+:::
+::: {.g-col-12 .g-col-md-6}
+
+<div style="text-align: center;">
+### Segunda circular
+
+[{{< fa file-pdf size=5x title="Segunda circular" >}}](circulares/Circular2.VIISilpoly_vf.pdf)
+</div>
+
+:::
+::::
+:::::
+
