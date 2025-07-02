@@ -6,3 +6,41 @@ subtitle: "Santa Marta, Colombia. Diciembre 3 al 5 de 2025."
 ![](imagenes/vii-silpoly_horizontal.png)
 
 ![](imagenes/fechas-importantes.jpg)
+
+::: {.text-center}
+## ¡Prepárate!
+:::
+
+<div id="countdown" style="font-size: 2rem; font-weight: bold; text-align: center;"></div>
+
+<script>
+  // Establece la fecha y hora a la que quieres que llegue la cuenta regresiva
+  var countDownDate = new Date("Dec 3, 2025 08:00:00").getTime();
+
+  // Actualiza la cuenta regresiva cada 1 segundo
+  var x = setInterval(function() {
+
+    // Obtiene la fecha y hora actual
+    var now = new Date().getTime();
+
+    // Calcula la distancia entre ahora y la fecha de la cuenta regresiva
+    var distance = countDownDate - now;
+
+    // Cálculos de tiempo para días, horas, minutos y segundos
+    var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+    var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+    var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+    var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+    // Muestra el resultado en los elementos con id
+    document.getElementById("countdown").innerHTML =
+      `Faltan ${days} días, ${hours} horas y ${minutes} minutos`
+
+    // Si la cuenta regresiva termina, escribe un texto
+    if (distance < 0) {
+      clearInterval(x);
+      document.getElementById("countdown").innerHTML = "¡El gran día ha llegado!";
+    }
+  }, 1000);
+</script>
+
