@@ -2,35 +2,76 @@
 title: "Inscripciones y pago"
 ---
 
-## ¡Inscríbete ahora!
+Para participar en el [VII SILPOLY 2025](/index.qmd), sigue estos pasos:
 
-Para participar en el [VII SILPOLY 2025](index.qmd), completa el formulario de inscripción.
+-   Completa el [formulario de inscripción](#sec-formulario).\
+-   Realiza el [pago](#sec-pago).\
+-   Envía el [soporte de pago](#sec-enviar-comprobante) al correo
+    [biologicasoluciones\@gmail.com](mailto:biologicasoluciones@gmail.com).
 
--   Escanea el código QR que aparece en la [imagen](#image-inscripcion) o accede al este [enlace](https://docs.google.com/forms/d/e/1FAIpQLSdoKB7mWsE17lzOHQlGIkacYNHLZS5FkBl8Jj1rRUgdrcODjw/viewform?fbclid=IwY2xjawMZZLlleHRuA2FlbQIxMABicmlkETF3MDFwRzV1U3I5MjBYUGxFAR4cNkEyZ9rR6H4G1zX8UZkLK5LbzFnb4vVSljbvm8sz2_eSA085PSCXhQud6Q_aem_y_ksiD3b_aJQJLbD0leNeA)
--   Realiza el [pago](#sec-pago)
-
-Llenar el formulario es el primer paso para confirmar tu participación.
+## Formulario de inscripción {#sec-formulario}
 
 ![](imagenes/inscripciones_01.jpg){#image-inscripcion}
+
+::: {style="text-align: center;"}
+### Acceder al formulario
+
+Para acceder al formulario, escanea el código QR que aparece en la
+[imagen](#image-inscripcion), haz clic en este
+[enlace](https://docs.google.com/forms/d/e/1FAIpQLSdoKB7mWsE17lzOHQlGIkacYNHLZS5FkBl8Jj1rRUgdrcODjw/viewform?fbclid=IwY2xjawMZZLlleHRuA2FlbQIxMABicmlkETF3MDFwRzV1U3I5MjBYUGxFAR4cNkEyZ9rR6H4G1zX8UZkLK5LbzFnb4vVSljbvm8sz2_eSA085PSCXhQud6Q_aem_y_ksiD3b_aJQJLbD0leNeA)
+o en el ícono de más abajo.
+
+[{{< fa rectangle-list size=5x title="Acceder al formulario" >}}](https://docs.google.com/forms/d/e/1FAIpQLSdoKB7mWsE17lzOHQlGIkacYNHLZS5FkBl8Jj1rRUgdrcODjw/viewform?fbclid=IwY2xjawMZZLlleHRuA2FlbQIxMABicmlkETF3MDFwRzV1U3I5MjBYUGxFAR4cNkEyZ9rR6H4G1zX8UZkLK5LbzFnb4vVSljbvm8sz2_eSA085PSCXhQud6Q_aem_y_ksiD3b_aJQJLbD0leNeA)
+:::
+
+::: callout-note
+Completar el formulario es el primer paso para confirmar tu participación.
+:::
 
 ## Pago {#sec-pago}
 
 ![](imagenes/inscripciones_02.jpg)
 
-<div style="text-align: center;">
+::: {style="text-align: center;"}
 ### Realizar el pago
 
-El pago se realiza mediante la plataforma habilitada por [Biológica Soluciones](http://www.biologicasoluciones.com). Al cual se puede hacer haciendo clic [aquí](https://checkout.bold.co/payment/LNK_8NXP0MSZTM) o en el {{< fa ticket title="Realizar pago" >}} de más abajo.
+El pago se efectúa mediante la plataforma habilitada por [Biológica
+Soluciones](http://www.biologicasoluciones.com).\
+Puedes hacerlo haciendo clic
+[**aquí**](https://checkout.bold.co/payment/LNK_8NXP0MSZTM) o en el ícono
+{{< fa ticket title="Realizar pago" >}} de más abajo.
 
 [{{< fa ticket size=5x title="Realizar pago" >}}](https://checkout.bold.co/payment/LNK_8NXP0MSZTM)
-</div>
+:::
 
+::: callout-important
+En caso de que el participante requiera cancelar su asistencia al congreso por
+motivos de fuerza mayor, se aplicará la siguiente política de reembolso:
 
+-   Cancelaciones solicitadas en el mes de septiembre: se realizará un reembolso
+    del 50% del valor total de la inscripción.
 
-<div style="text-align: center;">
+-   Cancelaciones solicitadas en el mes de octubre: se realizará un reembolso
+    del 30% del valor total de la inscripción.
+
+-   Cancelaciones solicitadas en el mes de noviembre: se realizará un reembolso
+    del 10% del valor total de la inscripción.
+
+-   Cancelaciones solicitadas a partir del 1 de diciembre y durante la
+    realización del evento: no se aplicará ningún tipo de reembolso.
+
+Para procesar su solicitud, debe enviar un correo electrónico a
+[biologicasoluciones\@gmail.com](mailto:biologicasoluciones@gmail.com) con su
+nombre completo, número de inscripción y el motivo de la cancelación. Las
+devoluciones se procesarán en un plazo de quince (15) días hábiles.
+:::
+
+## Soporte de pago {#sec-enviar-comprobante}
+
+::: {style="text-align: center;"}
 ### Enviar soporte de pago
 
-Tras realizar el pago, enviar el soporte de pago al correo [biologicasoluciones@gmail.com](mailto:biologicasoluciones@gmail.com)
+Tras realizar el pago, envía el comprobante al correo [biologicasoluciones\@gmail.com](mailto:biologicasoluciones@gmail.com). También puedes hacerlo a través del ícono {{< fa envelope title="Enviar correo electrónico" >}} de más abajo.
 
 [{{< fa envelope size=5x title="Enviar correo electrónico" >}}](mailto:biologicasoluciones@gmail.com)
-</div>
+:::
