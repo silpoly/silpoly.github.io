@@ -9,7 +9,7 @@ website:
   site-url: https://silpoly.github.io/
   repo-url: https://github.com/silpoly/silpoly.github.io/
 
-  image: imagenes/vii-silpoly_horizontal.png
+  image: imagenes/vii-silpoly_horizontal.jpg
 
   page-navigation: true
   bread-crumbs: true
@@ -21,7 +21,9 @@ website:
   twitter-card:
     card-style: summary_large_image
 
-  open-graph: true
+  open-graph:
+    title: "VII Simposio Latinoamericano de Polychaeta. Santa Marta, Colombia"
+    image: imagenes/vii-silpoly_horizontal.jpg
 
   navbar:
     left:
