@@ -38,10 +38,10 @@ Completar el formulario es el primer paso para confirmar tu participación.
 El pago se efectúa mediante la plataforma habilitada por [Biológica
 Soluciones](http://www.biologicasoluciones.com).\
 Puedes hacerlo haciendo clic
-[**aquí**](https://checkout.bold.co/payment/LNK_8NXP0MSZTM) o en el ícono
+[**aquí**](https://checkout.bold.co/payment/LNK_UTYB2AFM7L) o en el ícono
 {{< fa ticket title="Realizar pago" >}} de más abajo.
 
-[{{< fa ticket size=5x title="Realizar pago" >}}](https://checkout.bold.co/payment/LNK_8NXP0MSZTM)
+[{{< fa ticket size=5x title="Realizar pago" >}}](https://checkout.bold.co/payment/LNK_UTYB2AFM7L)
 :::
 
 ::: callout-important
