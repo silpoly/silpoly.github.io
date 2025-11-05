@@ -46,6 +46,9 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/bootstrap/bootstrap-c1fac2584b48ed01fb6e278e36375074.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <link href="../site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
 <link href="../site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
+<script src="../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -356,7 +359,7 @@ gtag('config', 'G-0X56X3292W', { 'anonymize_ip': true});
 </ul>
 <section id="sec-formulario" class="level2">
 <h2 class="anchored" data-anchor-id="sec-formulario">Formulario de inscripción</h2>
-<p><img src="imagenes/inscripciones_01.jpg" id="image-inscripcion" class="img-fluid"></p>
+<p><a href="imagenes/inscripciones_01.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="imagenes/inscripciones_01.jpg" id="image-inscripcion" class="img-fluid"></a></p>
 <section id="acceder-al-formulario" class="level3" style="text-align: center;">
 <h3 class="anchored" data-anchor-id="acceder-al-formulario">Acceder al formulario</h3>
 <p>Para acceder al formulario, escanea el código QR que aparece en la <a href="#image-inscripcion">imagen</a>, haz clic en este <a href="https://docs.google.com/forms/d/e/1FAIpQLSdoKB7mWsE17lzOHQlGIkacYNHLZS5FkBl8Jj1rRUgdrcODjw/viewform?fbclid=IwY2xjawMZZLlleHRuA2FlbQIxMABicmlkETF3MDFwRzV1U3I5MjBYUGxFAR4cNkEyZ9rR6H4G1zX8UZkLK5LbzFnb4vVSljbvm8sz2_eSA085PSCXhQud6Q_aem_y_ksiD3b_aJQJLbD0leNeA">enlace</a> o en el ícono de más abajo.</p>
@@ -378,12 +381,12 @@ Nota
 </section>
 <section id="sec-pago" class="level2">
 <h2 class="anchored" data-anchor-id="sec-pago">Pago</h2>
-<p><img src="imagenes/inscripciones_02.jpg" class="img-fluid"></p>
+<p><a href="imagenes/inscripciones_02.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-2"><img src="imagenes/inscripciones_02.jpg" class="img-fluid"></a></p>
 <section id="realizar-el-pago" class="level3" style="text-align: center;">
 <h3 class="anchored" data-anchor-id="realizar-el-pago">Realizar el pago</h3>
 <p>El pago se efectúa mediante la plataforma habilitada por <a href="http://www.biologicasoluciones.com">Biológica Soluciones</a>.<br>
-Puedes hacerlo haciendo clic <a href="https://checkout.bold.co/payment/LNK_UTYB2AFM7L"><strong>aquí</strong></a> o en el ícono <i class="fa-solid fa-ticket" title="Realizar pago" aria-label="ticket"></i> de más abajo.</p>
-<p><a href="https://checkout.bold.co/payment/LNK_UTYB2AFM7L"><i class="fa-solid fa-ticket fa-5x" title="Realizar pago" aria-label="ticket"></i></a></p>
+Puedes hacerlo haciendo clic <a href="https://checkout.bold.co/payment/LNK_ZFK5VJWPTO"><strong>aquí</strong></a> o en el ícono <i class="fa-solid fa-ticket" title="Realizar pago" aria-label="ticket"></i> de más abajo.</p>
+<p><a href="https://checkout.bold.co/payment/LNK_ZFK5VJWPTO"><i class="fa-solid fa-ticket fa-5x" title="Realizar pago" aria-label="ticket"></i></a></p>
 </section>
 <div class="callout callout-style-default callout-important callout-titled">
 <div class="callout-header d-flex align-content-center">
@@ -863,6 +866,38 @@ Importante
 </div>
   </div>
 </footer>
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 
