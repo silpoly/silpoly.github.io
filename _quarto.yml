@@ -31,8 +31,8 @@ website:
         href: index.qmd
       - text: "Acerca"
         href: acerca/index.qmd
-      - text: "Información"
-        href: informacion/index.qmd
+      - text: "Comités"
+        href: comites/index.qmd
       - text: "Inscripciones"
         href: inscripciones/index.qmd
       - text: "Resúmenes"
@@ -82,5 +82,5 @@ format:
     toc: false
 
 resources:
-  - informacion/circulares
+  - acerca/circulares
 
