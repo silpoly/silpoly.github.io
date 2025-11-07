@@ -28,11 +28,11 @@
     "text": "Soporte de pago\n\nEnviar soporte de pago\nTras realizar el pago, envía el comprobante al correo biologicasoluciones@gmail.com. También puedes hacerlo a través del ícono  de más abajo."
   },
   {
-    "objectID": "index.html#prepárate",
-    "href": "index.html#prepárate",
-    "title": "VII Simposio Latinoamericano de Polychaeta",
-    "section": "¡Prepárate!",
-    "text": "¡Prepárate!"
+    "objectID": "comites/index.html#comité-científico",
+    "href": "comites/index.html#comité-científico",
+    "title": "Comités",
+    "section": "Comité científico",
+    "text": "Comité científico"
   },
   {
     "objectID": "contacto/index.html",
@@ -56,18 +56,11 @@
     "text": "Síguenos en nuestras redes sociales\nEncuéntranos en Facebook e Instagram."
   },
   {
-    "objectID": "informacion/index.html#comité-científico",
-    "href": "informacion/index.html#comité-científico",
-    "title": "Información",
-    "section": "Comité científico",
-    "text": "Comité científico"
-  },
-  {
-    "objectID": "informacion/index.html#circulares",
-    "href": "informacion/index.html#circulares",
-    "title": "Información",
-    "section": "Circulares",
-    "text": "Circulares\n\n\n\n\nPrimera circular\n\n\n\n\n\nSegunda circular\n\n\n\n\n\n\n\n\n\nTercera circular"
+    "objectID": "index.html#prepárate",
+    "href": "index.html#prepárate",
+    "title": "VII Simposio Latinoamericano de Polychaeta",
+    "section": "¡Prepárate!",
+    "text": "¡Prepárate!"
   },
   {
     "objectID": "acerca/index.html",
@@ -96,5 +89,12 @@
     "title": "Acerca del VII SILPOLY 2025",
     "section": "Sede",
     "text": "Sede\nLa sede de la séptima versión del Simposio Latinoamericano de Poliquetos SILPOLY será el Instituto de Investigaciones Marinas y Costeras «José Benito Vives de Andréis» en la ciudad de Santa Marta, Colombia."
+  },
+  {
+    "objectID": "acerca/index.html#circulares",
+    "href": "acerca/index.html#circulares",
+    "title": "Acerca del VII SILPOLY 2025",
+    "section": "Circulares",
+    "text": "Circulares\n\n\n\n\nPrimera circular\n\n\n\n\n\nSegunda circular\n\n\n\n\n\n\n\n\n\nTercera circular"
   }
 ]
