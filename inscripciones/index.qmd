@@ -2,12 +2,19 @@
 title: "Inscripciones y pago"
 ---
 
-Para participar en el [VII SILPOLY 2025](/index.qmd), sigue estos pasos:
+Para participar en el [VII SILPOLY 2025](/index.qmd), puedes hacerlo en una de las siguientes modalidades: asistente presencial, asistente virtual o acompañante.
+
+Pasos para asistentes (presencial o virtual)
 
 -   Completa el [formulario de inscripción](#sec-formulario).\
--   Realiza el [pago](#sec-pago).\
+-   Realiza el [pago correspondiente](#sec-pago). como [asistente presencial](#sec-pago-presencial) o [asistente virtual](#sec-pago-virtual).\
 -   Envía el [soporte de pago](#sec-enviar-comprobante) al correo
     [biologicasoluciones\@gmail.com](mailto:biologicasoluciones@gmail.com).
+
+Pasos para acompañantes
+
+-   Realiza el [pago correspondiente como acompañante](#sec-pago-acompanante).
+-   Envía el [soporte de pago](#sec-enviar-comprobante) al correo [biologicasoluciones@gmail.com](mailto:biologicasoluciones@gmail.com).
 
 ## Formulario de inscripción {#sec-formulario}
 
@@ -33,7 +40,7 @@ Completar el formulario es el primer paso para confirmar tu participación.
 ![](imagenes/inscripciones_02.jpg)
 
 ::: {style="text-align: center;"}
-### Realizar el pago
+### Asistente presencial {#sec-pago-presencial}
 
 El pago se efectúa mediante la plataforma habilitada por [Biológica
 Soluciones](http://www.biologicasoluciones.com).\
@@ -42,6 +49,30 @@ Puedes hacerlo haciendo clic
 {{< fa ticket title="Realizar pago" >}} de más abajo.
 
 [{{< fa ticket size=5x title="Realizar pago" >}}](https://checkout.bold.co/payment/LNK_ZFK5VJWPTO)
+:::
+
+::: {style="text-align: center;"}
+### Asistente virtual {#sec-pago-virtual}
+
+El pago se efectúa mediante la plataforma habilitada por [Biológica
+Soluciones](http://www.biologicasoluciones.com).\
+Puedes hacerlo haciendo clic
+[**aquí**](https://checkout.bold.co/payment/LNK_TMSW1SE3VI) o en el ícono
+{{< fa ticket title="Realizar pago" >}} de más abajo.
+
+[{{< fa ticket size=5x title="Realizar pago" >}}](https://checkout.bold.co/payment/LNK_TMSW1SE3VI)
+:::
+
+::: {style="text-align: center;"}
+### Acompañante {#sec-pago-acompanante}
+
+El pago se efectúa mediante la plataforma habilitada por [Biológica
+Soluciones](http://www.biologicasoluciones.com).\
+Puedes hacerlo haciendo clic
+[**aquí**](https://checkout.bold.co/payment/LNK_ERLEGMQNY4) o en el ícono
+{{< fa ticket title="Realizar pago" >}} de más abajo.
+
+[{{< fa ticket size=5x title="Realizar pago" >}}](https://checkout.bold.co/payment/LNK_ERLEGMQNY4)
 :::
 
 ::: callout-important
