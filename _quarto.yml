@@ -37,6 +37,8 @@ website:
         href: inscripciones/index.qmd
       - text: "Resúmenes"
         href: resumenes/index.qmd
+      - text: "Información"
+        href: informacion/index.qmd
       - text: "Contacto"
         href: contacto/index.qmd
     tools:
