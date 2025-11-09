@@ -1,17 +1,18 @@
 ---
-title: "Comités"
+title: ""
+pagetitle: "Comités"
 ---
 
 ## Comité organizador
 
 ::: {layout-ncol="2"}
-![](comite-organizador/angie.jpeg)
-
 ![](comite-organizador/catalina.jpeg)
 
-![](comite-organizador/estefania.jpeg)
-
 ![](comite-organizador/mario.jpeg)
+
+![](comite-organizador/angie.jpeg)
+
+![](comite-organizador/estefania.jpeg)
 :::
 
 ## Comité científico
