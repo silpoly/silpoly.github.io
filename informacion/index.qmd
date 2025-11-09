@@ -1,0 +1,77 @@
+---
+title: ""
+pagetitle: "Alojamientos y actividades"
+---
+
+## Alojamientos
+
+## Actividades
+
++-------------------------+-------------------------+-------------------------+
+| Actividad               | Incluye                 | Precio (COP)            |
++=========================+=========================+:=======================:+
+| Tour Playa Blanca /     | -   Transporte marítimo | \$170.000               |
+| Inka Inka Acuario       |     ida y regreso       |                         |
+|                         |                         |                         |
+|                         | -   Ingreso al Acuario  |                         |
+|                         |     Rodadero            |                         |
+|                         |                         |                         |
+|                         | -   Seguro de viaje     |                         |
++-------------------------+-------------------------+-------------------------+
+| Tour Playa Blanca /     | -   Transporte marítimo | \$220.000               |
+| Inka Inka Acuario Pikua |     ida y regreso       |                         |
+|                         |                         |                         |
+|                         | -   Ingreso al Acuario  |                         |
+|                         |     Rodadero            |                         |
+|                         |                         |                         |
+|                         | -   Almuerzo típico +   |                         |
+|                         |     bebida              |                         |
+|                         |                         |                         |
+|                         | -   Seguro de viaje     |                         |
++-------------------------+-------------------------+-------------------------+
+| Tour Cañaveral,         | -   Transporte ida y    | \$160.000               |
+| Arrecifes, Cabo San     |     regreso             |                         |
+| Juan del Guía -         |                         |                         |
+| Terrestre               | -   Entrada al Parque   |                         |
+|                         |     Tayrona             |                         |
+|                         |                         |                         |
+|                         | -   Seguro de viaje     |                         |
+|                         |                         |                         |
+|                         | -   Guía de turismo     |                         |
++-------------------------+-------------------------+-------------------------+
+| Tour Cabo San Juan -    | -   Transporte marítimo | \$190.000               |
+| Marítimo                |     ida y regreso       |                         |
+|                         |                         |                         |
+|                         | -   Seguro de viaje     |                         |
+|                         |                         |                         |
+|                         | -   Ingreso y seguro de |                         |
+|                         |     Parque Tayrona      |                         |
+|                         |                         |                         |
+|                         | *\*Salida bajo reserva  |                         |
+|                         | y sujeta a              |                         |
+|                         | disponibilidad por      |                         |
+|                         | cupo*                   |                         |
+|                         |                         |                         |
+|                         | *\*\*Adicionar el       |                         |
+|                         | transporte ida y        |                         |
+|                         | regreso a la marina*    |                         |
++-------------------------+-------------------------+-------------------------+
+| Tour Playa Cristal -    | -   Transporte marítimo | \$260.000               |
+| Marítimo                |     ida y regreso       |                         |
+|                         |                         |                         |
+|                         | -   Seguro de viaje     |                         |
+|                         |                         |                         |
+|                         | -   Ingreso y seguro de |                         |
+|                         |     Parque Tayrona      |                         |
+|                         |                         |                         |
+|                         | -   Almuerzo            |                         |
+|                         |                         |                         |
+|                         | *\*Salida bajo reserva  |                         |
+|                         | y sujeta a              |                         |
+|                         | disponibilidad por      |                         |
+|                         | cupo*                   |                         |
+|                         |                         |                         |
+|                         | *\*\*Adicionar el       |                         |
+|                         | transporte ida y        |                         |
+|                         | regreso a la marina*    |                         |
++-------------------------+-------------------------+-------------------------+
