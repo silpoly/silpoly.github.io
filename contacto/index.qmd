@@ -1,5 +1,6 @@
 ---
-title: "Contacto"
+title: ""
+pagetitle: "Contacto"
 ---
 
 ## Envíanos un correo
