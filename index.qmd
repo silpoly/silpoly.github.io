@@ -5,14 +5,20 @@ subtitle: "Santa Marta, Colombia. Diciembre 3 al 5 de 2025."
 
 ![](imagenes/vii-silpoly_horizontal.png)
 
-![](imagenes/fechas-importantes.jpg)
+![](imagenes/fechas-importantes_02.jpg)
 
-::: {.text-center}
+[![](curso/curso_presimposio.jpg)](curso/index.qmd)
+
+[![](inscripciones/imagenes/inscripciones_02.jpg)](inscripciones/index.qmd)
+
+::: text-center
 ## ¡Prepárate!
 :::
 
-<div id="countdown" style="font-size: 2rem; font-weight: bold; text-align: center;"></div>
+::: {#countdown style="font-size: 2rem; font-weight: bold; text-align: center;"}
+:::
 
+```{=html}
 <script>
   // Establece la fecha y hora a la que quieres que llegue la cuenta regresiva
   var countDownDate = new Date("Dec 3, 2025 08:00:00").getTime();
@@ -43,4 +49,4 @@ subtitle: "Santa Marta, Colombia. Diciembre 3 al 5 de 2025."
     }
   }, 1000);
 </script>
-
+```
